@@ -8,6 +8,6 @@
 
 - 💬 Ask me about Android, Android Studio, Java, Kotlin and entrepreneurship =D
 
-- 📫 How to reach me: https://www.linkedin.com/in/felipe-luiz-seixas-e-silva-53455a50/ 
+- 📫 How to reach me: https://www.linkedin.com/in/felipe-seixas-53455a50/ 
 
 - ⚡ Fun´s fact´s: I like coding listenning forró (commum in the my region music). Did you listen about a Programmer Economist? It´s me, Felipe. kkkk
