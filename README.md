@@ -6,9 +6,6 @@ E neste momento busco ajudar mais uma empresa, será que é a sua!?
 
 * EN: I’m currently working on idealization and creation mobile App´s Android with Java and Kotlin. And I am stay entrepreneurship with a solution on the Health area (desease prevention);
 
-- 🌱 Será ótimo ajudar a sua empresa e Devs na solução de problemas/assuntos nesses temas.
-* EN: I’m currently learning and can help with--> Kotlin in the Android Studio;
-
 - 📫 Seguem meu contato mais fácil: https://www.linkedin.com/in/felipe-seixas/ 
 * EN: Find me easy: link above.
 
