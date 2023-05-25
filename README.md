@@ -2,7 +2,7 @@
 Hi there!
 
 - 🔭 Gosto de criar e manter aplicativos para dispositivos móveis Android (MBA), desde 2018. Utilizando as linguagens Java e Kotlin.
-E neste momento busco ajudar mais uma empresa, será que é a sua!?
+E procuro uma oportunidade interessante numa empresa com um ambiente atraente.
 
 * EN: I’m currently working on idealization and creation mobile App´s Android with Java and Kotlin. And I am stay entrepreneurship with a solution on the Health area (desease prevention);
 
