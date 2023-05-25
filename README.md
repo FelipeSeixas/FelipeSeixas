@@ -9,4 +9,4 @@ Atualmente busco uma oportunidade numa empresa com práticas éticas e ambiente 
 ⚡ *EN: Three curious facts about me: I like to listenning forró´s song while coding. And I am a Economist and Finances MBA´too;
 
 - 👯 Também curto criar/colaborar com projetos de alto impacto social, para isso me tornei empreededor social e fui premiado pelo Sebrae RN, por ajudar aprox. 45 mil pessoas com um App de vacinação do SUS. *EN: And I am stay entrepreneurship with a solution on the Health area (desease prevention);
-*EN: I’m looking to collaborate on Great social impact. And I am stay entrepreneurship with a solution on the Health area (desease prevention);
+*EN: I’m looking to collaborate on Great social impact. And I am stay entrepreneurship with a solution on the Health area (desease prevention), this solution did help about 45 thousand people in Brazil.
