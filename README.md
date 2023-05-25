@@ -4,7 +4,7 @@ Hi there!
 - 🔭 Gosto de criar e manter aplicativos para dispositivos móveis Android (MBA), desde 2018. Utilizando as linguagens Java e Kotlin.
 Atualmente busco uma oportunidade numa empresa com práticas éticas e ambiente positivo. *EN: I’m currently working on idealization and creation mobile App´s Android with Java and Kotlin. 
 
-- 📫 Segue meu contato mais fácil: https://www.linkedin.com/in/felipe-seixas/ *EN: Find me easy: link above.
+- 📫 Segue meu contato mais fácil: https://www.linkedin.com/in/felipe-seixas/ *EN: << -- Find me easy this link;
 
 ⚡ *EN: Three curious facts about me: I like to listenning forró´s song while coding. And I am a Economist and Finances MBA´too;
 
