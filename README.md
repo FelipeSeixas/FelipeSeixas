@@ -6,7 +6,7 @@ E neste momento busco ajudar mais uma empresa, será que é a sua!?
 
 * EN: I’m currently working on idealization and creation mobile App´s Android with Java and Kotlin. And I am stay entrepreneurship with a solution on the Health area (desease prevention);
 
-- 📫 Seguem meu contato mais fácil: https://www.linkedin.com/in/felipe-seixas/ 
+- 📫 Segue meu contato mais fácil: https://www.linkedin.com/in/felipe-seixas/ 
 * EN: Find me easy: link above.
 
 - ⚡ Three curious facts about me: I like to listenning forró´s song while coding. And I am a Economist and Finances MBA´too;
