@@ -2,8 +2,8 @@
 ###  👋 Como vão, pessoal!?
 Hi there!
 
-- 🔭 Gosto de criar e manter aplicativos para dispositivos móveis Android (MBA), desde 2018. Utilizando as linguagens Java e Kotlin.
-*EN: I’m, currently, working on idealization and creation mobile App´s Android with Java and Kotlin. 
+- 🔭 Gosto de criar e manter aplicativos para dispositivos móveis Android (fiz MBA)  Java e Kotlin.
+*EN: I’m doing working on idealization and creation mobile App´s Android (did postdegree) and backend sistems with Kotlin/Java and PHP/Larvel. 
 
 - 📫 Segue meu contato mais fácil / *EN - Find me easy this link:
 
