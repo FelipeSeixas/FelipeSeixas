@@ -14,3 +14,7 @@ Hi there!
 - *EN: I’m looking to collaborate on Great social impact. And I am stay entrepreneurship with a solution on the Health area (desease prevention), this solution did help about 45 thousand people in Brazil;
 
 - ⚡ *EN: Three facts about me: I want to participate in developers Global teams, I like to listenning forró´s song while I am coding and I am a Economist/Finances MBA´too.
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeixas&layout=pie)
