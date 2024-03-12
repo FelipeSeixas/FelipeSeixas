@@ -17,4 +17,4 @@ Hi there!
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeixas&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeixas&layout=pie&langs_count=3)
