@@ -7,7 +7,13 @@ Hi there!
 
 - 📫 Segue meu contato mais fácil / *EN - Find me easy this link:
 
-  [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/felipe-seixas) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-seixas">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" />
+  </a>
+</p>
+
+<!--   [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/felipe-seixas)  -->
 
 - Também curto criar/colaborar com projetos de alto impacto social, para isso me tornei empreededor social e fui premiado pelo Sebrae RN, por ajudar aprox. 45 mil pessoas com um App de vacinação do SUS.
 
@@ -16,5 +22,8 @@ Hi there!
 - ⚡ *EN: Three facts about me: I want to participate in developers Global teams, I like to listenning forró´s song while I am coding and I am a Economist/Finances MBA´too.
 
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeixas&layout=pie&langs_count=3) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeixas&layout=pie&langs_count=3)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeixas&layout=pie&langs_count=3" />
+</p>
