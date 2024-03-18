@@ -1,6 +1,6 @@
 
-###  👋 Como vão, pessoal!?
-Hi there!
+###  👋 Bem vindos!? 
+*EN: Hi there, Welcome!
 
 - 🔭 Gosto de criar e manter aplicativos para dispositivos móveis Android (fiz MBA)  Java e Kotlin.
 - *EN: I’m doing working on idealization and creation mobile App´s Android (did postdegree) and backend sistems with Kotlin/Java and PHP/Larvel. 
