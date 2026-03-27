@@ -1,7 +1,7 @@
 
 ###  👋 Welcome! 
 
-- 🔭 Gosto de criar e manter aplicativos para dispositivos móveis/Android e backend com a Java/Kotlin e PHP;
+- 🔭 Experiência proficional na criação e manutenção de aplicativos móveis Android com Java e Kotlin;
 - *EN: I’m doing working on idealization and creation mobile App´s Android (postgraduate degree) and backend sistems with Kotlin/Java and PHP/Larvel. 
 
 - 📫 Segue meu contato mais fácil / *EN - Find me easy this link:
