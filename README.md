@@ -1,10 +1,10 @@
 
 ###  👋 Welcome! 
 
-- 🔭 Experiência proficional na criação e manutenção de aplicativos móveis Android com Java e Kotlin;
+- 🔭 Experiência profissional na criação e manutenção de aplicativos móveis Android com Java e Kotlin;
 - *EN: I’m doing working on idealization and creation mobile App´s Android (postgraduate degree) and backend sistems with Kotlin/Java and PHP/Larvel. 
 
-- 📫 Segue meu contato mais fácil / *EN - Find me easy this link:
+- 📫 contato/ *EN - Find me easy this link:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-seixas">
